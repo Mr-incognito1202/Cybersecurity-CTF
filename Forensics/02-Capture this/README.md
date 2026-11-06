@@ -1,4 +1,4 @@
-# 🔍 Root-Me Forensics – Capture thi
+# 🔍 Root-Me Forensics – Capture this
 ## 1. Challenge Information
 
  Platform - Root-Me 
